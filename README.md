@@ -11,6 +11,7 @@ it is not a real project. it is just a react[hooks] simple project that has many
 - [Links](#Links)
 - [Screenshot](#Screenshot)
 - [Author](#author)
+- [Acknowledgments](#Acknowledgments)
 
 
 ## overview
@@ -64,3 +65,8 @@ Otherwise, all links will open in the same tab.
 ### Author
 
 GitHub - @olahasan
+
+### Acknowledgments
+
+I would like to thank the **[kimz code](https://www.youtube.com/@kimzcodes)** for providing this challenge and to the community for their support.
+
