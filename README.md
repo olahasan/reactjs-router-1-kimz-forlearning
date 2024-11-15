@@ -26,7 +26,7 @@ To get started with this project, follow these steps:
 you can clone the project or download it as Zip file.
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/olahasan/reactjs-router-kimz-forlearning.git
 
 2. Navigate to the project directory:
    cd <project-directory>
@@ -51,9 +51,9 @@ If you want to open the link in a new tab, you can:
 Otherwise, all links will open in the same tab.
 
 
-- Solution URL: [here](https://github.com/olahasan/router-reactjs-ola-forlearning)
+- Solution URL: [here](https://github.com/olahasan/reactjs-router-kimz-forlearning)
 
-- Live Site URL: [here](https://react-router-ola-forlearning.surge.sh/)  OR  [here](https://react-router-ola-forlearning.netlify.app/)
+- Live Site URL: [here](https://reactjs-router-kimz-forlearning.surge.sh/)  OR  [here](https://reactjs-router-kimz-forlearning.netlify.app/)
 
  ## Screenshot
  
