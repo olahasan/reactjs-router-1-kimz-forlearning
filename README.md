@@ -1,4 +1,4 @@
-# reactjs-router-kimz-forlearning
+# reactjs-router-1-kimz-forlearning
 
 it is not a real project. it is just a react[hooks] simple project that has many pages and we route between them using routes.for_learning and trying
 
@@ -52,7 +52,7 @@ If you want to open the link in a new tab, you can:
 Otherwise, all links will open in the same tab.
 
 
-- Solution URL: [here](https://github.com/olahasan/reactjs-router-kimz-forlearning)
+- Solution URL: [here](https://github.com/olahasan/reactjs-router-1-kimz-forlearning)
 
 - Live Site URL: [here](https://reactjs-router-kimz-forlearning.surge.sh/)  OR  [here](https://reactjs-router-kimz-forlearning.netlify.app/)
 
