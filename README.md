@@ -27,7 +27,7 @@ To get started with this project, follow these steps:
 you can clone the project or download it as Zip file.
 1. Clone the repository:
    ```bash
-   git clone https://github.com/olahasan/reactjs-router-kimz-forlearning.git
+   git clone https://github.com/olahasan/reactjs-router-1-kimz-forlearning.git
 
 2. Navigate to the project directory:
    cd <project-directory>
